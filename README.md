@@ -1,0 +1,9 @@
+Hi, I am Nigel Wens
+
+A current 2nd year computer science student a the University of Westminster in London.
+
+Learning OOP in Java, databases and Mysql at Univeristy.
+
+Busy with data structures and algorithms in c++ and python.
+
+(small portfolio from the last 6 years coming soon)
